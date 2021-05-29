@@ -10,7 +10,10 @@ Wykorzystano pre-trenowany model dostępny dzięki twórcom użyte repozytorium,
 
 Po uruchomienu ``task_project.py`` transkrypcje zostają zapisane do pliku ``results.csv``.
 
-#Przebieg instalacji 
+# [Zadanie Python]
+Wszystko zawarte w pliku ``staz.ipynb``
+
+# Przebieg instalacji 
 1. Zainstalować biblioteki zgodnie z plikiem ``requirements.txt``:
 
 ```
@@ -27,5 +30,4 @@ Po uruchomienu ``task_project.py`` transkrypcje zostają zapisane do pliku ``res
 3. Uruchomić plik ``task_project.py`` 
 Badane pliki powinny znajdować się w folderze ``test_wavs`` - cały ten folder powinnien zostać przebadany. 
 
-# [Zadanie Python]
-Wszystko zawarte w pliku ``staz.ipynb``
+
