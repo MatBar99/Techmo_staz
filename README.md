@@ -5,7 +5,7 @@ Rozwiązanie zadań na staż
 Celem programu jest wykorzystanie istniejącego repozytorium DeepSpeech:
 https://github.com/mozilla/DeepSpeech 
  
-W celu transkrypcji mowy z dziesiąciu przygotowanych nagrań. 
+W celu transkrypcji mowy z dziesięciu przygotowanych nagrań. 
 Wykorzystano pre-trenowany model dostępny dzięki twórcom użyte repozytorium, dodatkowo rozpoznawanie mowy zostało wzmocnione modelem językowym również dostarczonym przez twórców DeepSpeech.
 
 Po uruchomienu ``task_project.py`` transkrypcje zostają zapisane do pliku ``results.csv``.
