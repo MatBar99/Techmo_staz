@@ -1,7 +1,7 @@
 # Techmo_staz
 Rozwiązanie zadań na staż 
 
-# [Zad 1]
+# [Zadanie projektowe ASR]
 Celem programu jest wykorzystanie istniejącego repozytorium DeepSpeech:
 https://github.com/mozilla/DeepSpeech 
  
@@ -27,3 +27,5 @@ Po uruchomienu ``task_project.py`` transkrypcje zostają zapisane do pliku ``res
 3. Uruchomić plik ``task_project.py`` 
 Badane pliki powinny znajdować się w folderze ``test_wavs`` - cały ten folder powinnien zostać przebadany. 
 
+# [Zadanie Python]
+Wszystko zawarte w pliku ``staz.ipynb``
