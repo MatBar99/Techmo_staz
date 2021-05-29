@@ -1,7 +1,7 @@
 # Techmo_staz
 Rozwiązanie zadań na staż 
 
-#[Zad 1]
+# [Zad 1]
 Celem programu jest wykorzystanie istniejącego repozytorium DeepSpeech:
 https://github.com/mozilla/DeepSpeech 
  
