@@ -63,4 +63,7 @@ python -m task_project.py
 
 Badane pliki powinny znajdować się w folderze ``test_wavs`` - cały ten folder zostanie przebadany. 
 
+Pobrane pakiety pozwalają również na włączenie pliku ``staz.ipynb``, który jest drugą częścią zadania 
+
+
 
