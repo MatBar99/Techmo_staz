@@ -1,4 +1,3 @@
-# python -m wget adres modelu
 import os
 import deepspeech
 from scipy.io import wavfile
