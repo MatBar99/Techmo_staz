@@ -6,7 +6,7 @@ Celem programu jest wykorzystanie istniejącego repozytorium DeepSpeech:
 https://github.com/mozilla/DeepSpeech 
  
 W celu transkrypcji mowy z dziesięciu przygotowanych nagrań. 
-Wykorzystano pre-trenowany model dostępny dzięki twórcom użyte repozytorium, dodatkowo rozpoznawanie mowy zostało wzmocnione modelem językowym również dostarczonym przez twórców DeepSpeech. Preprocessing audio nie był konieczny ze względu na odpowiednią dla modelu częstotliwość próbkowania (16kHz) oraz ze względu na rozdzielczość bitową (16bit)
+Wykorzystano pre-trenowany model dostępny dzięki twórcom użyte repozytorium, dodatkowo rozpoznawanie mowy zostało wzmocnione modelem językowym również dostarczonym przez twórców DeepSpeech. Preprocessing audio nie był konieczny ze względu na odpowiednią dla modelu częstotliwość próbkowania (16kHz) i odpowiednią rozdzielczość bitową (16bit)
 
 Po uruchomienu ``task_project.py`` transkrypcje zostają zapisane do pliku ``results.csv``.
 
